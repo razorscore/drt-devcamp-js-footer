@@ -1,0 +1,22 @@
+{
+  "name": "drt-devcamp-js-footer",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS application with an updated year and name, with some drt.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razorscore/drt-devcamp-js-footer.git"
+  },
+  "author": "razorscore <daventriplett@gmail.com> (https://www.npmjs.com/~razorscore)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/razorscore/drt-devcamp-js-footer/issues"
+  },
+  "homepage": "https://github.com/razorscore/drt-devcamp-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
